@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TT Lynn Photography]]></title>
         <description><![CDATA[TT Lynn Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tt-lynn-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 04:45:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 04:59:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tt-lynn-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e44b120-45cc-42cd-b86e-dc653b8e7eb2.jpg">]]></description>
+            <link>https://thegrid.ai/tt-lynn-photography/fc8ac26f-0576-4500-9e73-40b42da3aa63/index.html</link>
+            <guid isPermaLink="false">fc8ac26f-0576-4500-9e73-40b42da3aa63</guid>
+            <pubDate>Thu, 04 Feb 2016 04:58:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portrait Investment]]></title>
             <description><![CDATA[<article><h1>Portrait Investment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/069450b6a9e2b83459fe360ca01a05044cfe5134.jpg"></article>]]></description>
-            <link>undefined7695e729-e064-4a97-aa8e-e1f66c75edf8/index.html</link>
+            <link>https://thegrid.ai/tt-lynn-photography/7695e729-e064-4a97-aa8e-e1f66c75edf8/index.html</link>
             <guid isPermaLink="false">7695e729-e064-4a97-aa8e-e1f66c75edf8</guid>
             <pubDate>Thu, 04 Feb 2016 04:45:28 GMT</pubDate>
         </item>
