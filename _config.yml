@@ -1,7 +1,7 @@
 name: TT Lynn Photography
 favicon: null
-layout_spectrum: 0.10696577187627554
-typography_spectrum: 0.8104482952039689
+layout_spectrum: 0
+typography_spectrum: 0.60867
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2011092179454863
+  brandStrength: 0.1875
   lightness: 0.8455317469779402
   saturation: 0.24338938109576702
   rhythmicContrast: 0.4762026045937091
