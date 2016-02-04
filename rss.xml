@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TT Lynn Photography]]></title>
+        <description><![CDATA[TT Lynn Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 04:45:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Portrait Investment]]></title>
+            <description><![CDATA[<article><h1>Portrait Investment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/069450b6a9e2b83459fe360ca01a05044cfe5134.jpg"></article>]]></description>
+            <link>undefined7695e729-e064-4a97-aa8e-e1f66c75edf8/index.html</link>
+            <guid isPermaLink="false">7695e729-e064-4a97-aa8e-e1f66c75edf8</guid>
+            <pubDate>Thu, 04 Feb 2016 04:45:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
